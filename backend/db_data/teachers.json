@@ -1,0 +1,23 @@
+[
+  {
+    "teacher_id": 1,
+    "name": "John Doe",
+    "email": "johndoe@system.com",
+    "password": "$2a$10$X0qn5UpMYKRMxmLQwKASHet.HA5D9C9s8.J261vPhCebYEZvg35b6",
+    "department": "Computer Science"
+  },
+  {
+    "teacher_id": 2,
+    "name": "Adeline",
+    "email": "adeline@system.com",
+    "password": "$2a$10$1xwiI62mH.ILHRaSq.iir.Q7Kx.ARM9DThEjZ.q8KqO62HVNRffmu",
+    "department": "Department of Electronics and Communication and Engineering"
+  },
+  {
+    "teacher_id": 3,
+    "name": "JAYA PRAKASH",
+    "email": "jayaprakash@system.com",
+    "password": "$2a$10$Fdwbr7/Qsk5A1Vkmrfu8VOapCjngS7TFdTkMl6THfo6GXCmKDG1qS",
+    "department": "Department of Chemistry"
+  }
+]

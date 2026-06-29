@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "student_id": 2,
+    "teacher_id": 1,
+    "event_name": "Smart India hackathon",
+    "category": "Hackathon",
+    "event_date": "2026-06-28",
+    "description": "Our team \"Code clash\" is going to smart India Hackathon",
+    "status": "PENDING"
+  },
+  {
+    "id": 2,
+    "student_id": 2,
+    "teacher_id": 2,
+    "event_name": "hackathon",
+    "category": "Hackathon",
+    "event_date": "2026-06-28",
+    "description": "hackathon",
+    "status": "APPROVED"
+  }
+]

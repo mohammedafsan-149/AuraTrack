@@ -1,0 +1,12 @@
+{
+  "gps_radius": 100,
+  "session_duration": 8,
+  "liveness_sensitivity": "medium",
+  "email_notifications": true,
+  "gps_bypass": true,
+  "email_threshold": 75,
+  "org_name": "EASWARI ENGINEERING COLLEGE",
+  "enable_org_name": 1,
+  "org_address": "Bharathi Salai, Ramapuram,Chennai",
+  "org_website": "https://srmeaswari.ac.in/"
+}
