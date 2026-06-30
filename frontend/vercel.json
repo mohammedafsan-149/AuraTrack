@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://your-backend-api-url.onrender.com/api/:path*"
+      "destination": "https://auratrack.onrender.com"
     },
     {
       "source": "/models/:path*",
-      "destination": "https://your-backend-api-url.onrender.com/models/:path*"
+      "destination": "https://auratrack.onrender.com"
     },
     {
       "source": "/(.*)",
